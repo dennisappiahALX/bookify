@@ -90,7 +90,7 @@ npx hardhat run scripts/deploy.js --network localhost
 npm run dev
 ```
 
-### Configuration
+<!-- ### Configuration
 
 The chain ID should be 80001. If you have a localhost rpc set up, you may need to overwrite it.
 
@@ -127,7 +127,7 @@ module.exports = {
     },
   },
 };
-```
+``` -->
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
@@ -141,6 +141,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Distributed under the MIT License.
 
-# Contact
+<!-- # Contact
 
-- Mends Albert - https://twitter.com/mendalbert
+- Mends Albert - https://twitter.com/mendalbert -->
