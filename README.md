@@ -34,9 +34,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - [React.js](https://reactjs.org/)
 - [React-Bootstrap](https://react-bootstrap.github.io/)
 - [Bootstrap](https://getbootstrap.com/)
-- [Express Js](https://docs.soliditylang.org/en/v0.8.13/)
-- [Node JS](https://ipfs.io/)
-- [MongoDb](https://ipfs.io/)
+- [ExpressJs](https://expressjs.com/)
+- [NodeJS](https://nodejs.org/en/)
+- [MongoDb](https://www.mongodb.com/home)
 
 # Getting started
 
