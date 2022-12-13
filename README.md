@@ -12,7 +12,7 @@
 
 ## About The Project
 
-<img src="https://drive.google.com/file/d/12KYZSpJYiuVx9r6R9o8iaGUHvInoftsP/view?usp=share_link" alt="screenshot" width="" >
+<img src="https://github.com/dennisappiahALX/bookify/blob/master/frontend/src/images/Bookify_deleted.png" alt="screenshot" width="" >
 
 # What it does
 
