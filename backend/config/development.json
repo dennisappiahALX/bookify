@@ -1,0 +1,6 @@
+{
+    "name" : "Bookify-dev",
+    "mail" : {
+        "host": "dev-mail-server"
+    }
+}

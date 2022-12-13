@@ -1,0 +1,5 @@
+{
+    "jwtPrivatekey" : "unsecured",
+    "db" :"mongodb://localhost/bookify",
+    "port":"5000"
+}
