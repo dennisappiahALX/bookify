@@ -60,7 +60,7 @@ To run this project locally, follow these steps.
 1. Clone the project locally, change into the directory, and install the dependencies:
 
 ```
-git clone https://github.com/mendsalbert/nftproject
+git clone https://github.com/dennisappiahALX/bookify.git
 
 cd nftproject
 
