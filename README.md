@@ -16,15 +16,16 @@
 
 # What it does
 
-NFTs have been around for a while now, but their popularity has exploded in recent months. So what exactly are NFTs? And why are they so popular?
+Bookify is an online Book rental platform with seeks to solve of problem of difficult access to books due to high
+costs. Bookify is an model application that serves as a library for all categories of books released on rental basis for small daily rental fee.
 
-NFTs, or non-fungible tokens, are digital assets that are unique and cannot be replicated. This makes them perfect for things like collectibles, art, and other digital items that have value because they are rare.
+If you're interested in easy access to collection of books based on your preference , Bookify is the one stop place. With a simple interface, you can upload a book for others to rent market.
 
-One of the reasons NFTs have become so popular is because they provide a way for artists and creators to monetize their work in a way that wasn't possible before. For example, an artist can create a digital painting and then sell it as an NFT. The buyer can then display the painting in their digital gallery or even resell it for a profit.
+Key Features:
 
-Another reason NFTs are gaining in popularity is because they're a way to invest in the future of the digital world. As more and more of our lives move online, it's likely that NFTs will become an important part of the digital economy. So by buying NFTs now, you're investing in the future of the digital world.
-
-If you're interested in buying NFTs, one of the best places to do so is Universo. Universo is an online NFT platform that restores the original and classic NFTs. With a simple interface, you can upload an NFT and start selling it directly on the market.
+- App supports authentication and Authorization through CRUD operations
+- Only Admin Users have delete authorization.
+- Unauthenticated users do not have accesss to the platform till they are logged in.
 
 # Built With
 
@@ -33,8 +34,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - [React.js](https://reactjs.org/)
 - [React-Bootstrap](https://react-bootstrap.github.io/)
 - [Bootstrap](https://getbootstrap.com/)
-- [Solidity](https://docs.soliditylang.org/en/v0.8.13/)
-- [IPFS](https://ipfs.io/)
+- [Express Js](https://docs.soliditylang.org/en/v0.8.13/)
+- [Node JS](https://ipfs.io/)
+- [MongoDb](https://ipfs.io/)
 
 # Getting started
 
